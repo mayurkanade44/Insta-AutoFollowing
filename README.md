@@ -2,4 +2,5 @@
 
 You need to put your username and password of Instagram.
 
-and also set local path of your chromedriver.
+Need to have chromedriver on your machine and then set local path of your chromedriver in the file.
+
